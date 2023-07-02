@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandynoto&rank_icon=github&custom_title=Stats&text_bold=false&show=reviews&hide=stars,issues" alt="Mandy Noto's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mandynoto&rank_icon=github&custom_title=Stats&text_bold=false&show=reviews&hide=stars,issues&theme=transparent&title_color=5191EC&hide_border=false&border_color=AF8B89" alt="Mandy Noto's GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&custom_title=Languages&card_width=300&langs_count=20&hide=d" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&custom_title=Languages&card_width=300&langs_count=20&hide=d&theme=transparent&title_color=5191EC&border_color=AF8B89" alt="Top Langs">
 </p>
