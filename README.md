@@ -1,4 +1,4 @@
-<h5 align="center">Hey there 👋</h5>
+<h5 align="center">Hey there, I'm Mandy 👋</h5>
 
 <!--
 **mandynoto/mandynoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://twitter.com/mandynoto" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mandynoto" height="20" width="20" />
+<a href="mailto:mandynoto@icloud.com">
+    <img align="center" src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" height="75" width="75"/>
+</a>
 </a>
 <a href="https://www.leetcode.com/mandynoto" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mandynoto" height="20" width="20" />
+  <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="mandynoto" height="75" width="75" />
+</a>
+<a href="https://twitter.com/MandyNoto">
+  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mandynoto" height="75" width="75" />
 </a>
 </p>
 
