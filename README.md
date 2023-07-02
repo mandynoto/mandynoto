@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="mailto:mandynoto@icloud.com">
-    <img align="center" src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" height="75" width="75"/>
+    <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" />
 </a>
 </a>
 <a href="https://www.leetcode.com/mandynoto" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="mandynoto" height="75" width="75" />
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="mandynoto" />
 </a>
 <a href="https://twitter.com/MandyNoto">
-  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mandynoto" height="75" width="75" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mandynoto" />
 </a>
 </p>
 
