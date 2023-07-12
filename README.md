@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h5 align="center">Let's connect</h5>
 <p align="center">
 <a href="https://www.linkedin.com/in/mandynoto/">
   <img src="https://img.shields.io/badge/Mandy%20Noto-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="mandynoto linkedin"/>
