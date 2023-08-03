@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="mailto:mandynoto@icloud.com">
     <img src="https://img.shields.io/badge/mandynoto%40icloud.com-3693F3?style=flat-square&logo=iCloud&logoColor=white" />
 </a>
-<a href="https://twitter.com/MandyNoto">
+<a href="https://twitter.com/Mandy_Noto">
   <img src="https://img.shields.io/badge/%40MandyNoto-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="mandynoto" />
 </a>
 </p>
