@@ -19,14 +19,11 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mandynoto/">
   <img src="https://img.shields.io/badge/Mandy%20Noto-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="mandynoto linkedin"/>
 </a>
-<a href="https://www.leetcode.com/mandynoto" target="blank">
-  <img src="https://img.shields.io/badge/mandynoto-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="mandynoto" />
-</a>
 <a href="mailto:mandynoto@icloud.com">
     <img src="https://img.shields.io/badge/mandynoto%40icloud.com-3693F3?style=flat-square&logo=iCloud&logoColor=white" />
 </a>
 <a href="https://twitter.com/Mandy_Noto">
-  <img src="https://img.shields.io/badge/%40MandyNoto-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="mandynoto" />
+  <img src="https://img.shields.io/badge/%40Mandy__Noto-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="mandynoto" />
 </a>
 </p>
 
