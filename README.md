@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ Let's connect on [LinkedIn](https://www.linkedin.com/in/mandynoto/)
+- ⚡ Let's connect on [LinkedIn](https://www.linkedin.com/in/mandynoto/)
 
-📫 You can email me at [mandynoto@outlook.com](mailto:mandynoto@outlook.com)
+- 📫 You can email me at [mandynoto@outlook.com](mailto:mandynoto@outlook.com)
 
---- 
 <img src="https://github-readme-stats.vercel.app/api?username=mandynoto&rank_icon=github&custom_title=Contributions&text_bold=false&show=reviews&hide=stars,issues&theme=transparent&title_color=4D9FEB&hide_border=true" alt="Mandy Noto's GitHub Stats">
